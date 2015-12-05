@@ -1,0 +1,2 @@
+# NoScreenShotFlash
+Remove screenshot flash!  
